@@ -1,5 +1,7 @@
-title: Soberania Digital Europeia
-description: Alternativas tecnológicas europeias aos serviços americanos.
+title: Soberania Digital
+description: Alternativas europeias para soberania digital
+author: Luís Candeias
 theme: minima
-baseurl: ""
-url: "https://bulminer.github.io/"
+plugins:
+  - jekyll-feed
+
