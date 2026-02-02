@@ -1,3 +1,9 @@
+---
+layout: default
+title:  "Porque Deves Deixar o X"
+date:   2026-02-01 10:00:00 +0000
+categories: privacidade email
+---
 <h1>Deixa o X (Twitter) e Usa o Mastodon ou Calckey</h1>
 <p>O <strong>X (antigo Twitter)</strong> é caótico, cheio de anúncios e <strong>pertence a Elon Musk, que já demonstrou desrespeito pela privacidade dos utilizadores</strong>. Felizmente, existem alternativas descentralizadas e focadas na comunidade: <a href="https://joinmastodon.org/">Mastodon</a> (Alemanha) e <a href="https://calckey.social/">Calckey</a> (Japão, mas com servidores na UE).</p>
 
