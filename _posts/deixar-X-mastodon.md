@@ -1,97 +1,56 @@
 ---
 layout: default
-title:  "Porque Deves Deixar o X"
-date:   2026-02-01 10:00:00 +0000
-categories: privacidade email
+title: "Deixa o X (Twitter) e Usa o Mastodon ou Calckey"
+date: 2026-02-08 10:00:00 +0000
+categories: privacidade redes-sociais
 ---
-<h1>Deixa o X (Twitter) e Usa o Mastodon ou Calckey</h1>
-<p>O <strong>X (antigo Twitter)</strong> é caótico, cheio de anúncios e <strong>pertence a Elon Musk, que já demonstrou desrespeito pela privacidade dos utilizadores</strong>. Felizmente, existem alternativas descentralizadas e focadas na comunidade: <a href="https://joinmastodon.org/">Mastodon</a> (Alemanha) e <a href="https://calckey.social/">Calckey</a> (Japão, mas com servidores na UE).</p>
 
-<h2>Porque Deves Migrar?</h2>
-<ul>
-  <li><strong>Descentralizado:</strong> Mastodon não é propriedade de nenhuma empresa. É uma rede de servidores independentes (chamados "instâncias").</li>
-  <li><strong>Sem algoritmos:</strong> Não há um algoritmo central a decidir o que vês. Vês as publicações por ordem cronológica.</li>
-  <li><strong>Privacidade:</strong> Não há rastreio publicitário ou partilha de dados com terceiros.</li>
-  <li><strong>Comunidade:</strong> Mastodon é conhecido por ser mais civilizado e menos tóxico que o X.</li>
-</ul>
+O **X (antigo Twitter)** é caótico, cheio de anúncios e **pertence a Elon Musk, que já demonstrou desrespeito pela privacidade dos utilizadores**. Felizmente, existem alternativas descentralizadas e focadas na comunidade: [Mastodon](https://joinmastodon.org/) (Alemanha) e [Calckey](https://calckey.social/) (Japão, mas com servidores na UE).
 
-<h2>Alternativas ao X (Twitter)</h2>
-<table>
-  <thead>
-    <tr>
-      <th>Rede Social</th>
-      <th>País</th>
-      <th>Vantagens</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Mastodon</td>
-      <td>Alemanha (descentralizado)</td>
-      <td>Open-source, sem anúncios, comunidades temáticas</td>
-      <td><a href="https://joinmastodon.org/">joinmastodon.org</a></td>
-    </tr>
-    <tr>
-      <td>Calckey</td>
-      <td>Japão (servidores na UE)</td>
-      <td>Leve, focado em privacidade, alternativa ao Twitter e Instagram</td>
-      <td><a href="https://calckey.social/">calckey.social</a></td>
-    </tr>
-    <tr>
-      <td>Pleroma</td>
-      <td>Descentralizado</td>
-      <td>Mais leve que Mastodon, compatível com ActivityPub</td>
-      <td><a href="https://pleroma.social/">pleroma.social</a></td>
-    </tr>
-  </tbody>
-</table>
+---
 
-<h2>Como Migrar do X para o Mastodon</h2>
-<ol>
-  <li><strong>Escolhe uma instância:</strong>
-    <ul>
-      <li>Acede a <a href="https://joinmastodon.org/servers">joinmastodon.org/servers</a> e escolhe uma instância temática (ex: <a href="https://mastodon.social/">mastodon.social</a> para geral ou <a href="https://mastodon.pt/">mastodon.pt</a> para Portugal).</li>
-    </ul>
-  </li>
-  <li><strong>Cria uma conta:</strong>
-    <ul>
-      <li>Regista-te na instância escolhida (ex: <a href="https://mastodon.pt/">mastodon.pt</a>).</li>
-    </ul>
-  </li>
-  <li><strong>Sigue os teus contactos:</strong>
-    <ul>
-      <li>Usa a função "Importar/Exportar" para seguir pessoas de outras instâncias.</li>
-      <li>Podes procurar utilizadores pelo seu endereço (ex: @utilizador@mastodon.social).</li>
-    </ul>
-  </li>
-  <li><strong>Personaliza o teu perfil:</strong>
-    <ul>
-      <li>Adiciona uma bio, foto de perfil e cabeçalho (como no Twitter).</li>
-    </ul>
-  </li>
-  <li><strong>Usa apps móveis:</strong>
-    <ul>
-      <li>Android: <a href="https://play.google.com/store/apps/details?id=org.joinmastodon.android">Mastodon oficial</a> ou <a href="https://play.google.com/store/apps/details?id=com.jeremyfeinstein.sliver">Tusky</a>.</li>
-      <li>iOS: <a href="https://apps.apple.com/app/mastodon-for-iphone/id1571998974">Mastodon oficial</a> ou <a href="https://apps.apple.com/app/ice-cubes/id1450039468">Ice Cubes</a>.</li>
-    </ul>
-  </li>
-  <li><strong>Desativa o X (opcional):</strong>
-    <ul>
-      <li>Depois de migrares, podes <a href="https://help.twitter.com/pt/managing-your-account/how-to-deactivate-twitter-account">desativar a tua conta do X</a>.</li>
-    </ul>
-  </li>
-</ol>
+## Porque Deves Migrar?
+- **Descentralizado:** Mastodon não é propriedade de nenhuma empresa. É uma rede de servidores independentes (chamados "instâncias").
+- **Sem algoritmos:** Não há um algoritmo central a decidir o que vês. Vês as publicações por ordem cronológica.
+- **Privacidade:** Não há rastreio publicitário ou partilha de dados com terceiros.
+- **Comunidade:** Mastodon é conhecido por ser mais civilizado e menos tóxico que o X.
 
-<h2>Dicas para Mastodon</h2>
-<ul>
-  <li>Usa <a href="https://fediverse.info/">fediverse.info</a> para descobrir novas instâncias e comunidades.</li>
-  <li>Podes seguir utilizadores de qualquer instância Mastodon (ex: @utilizador@outra.instancia).</li>
-  <li>Mastodon suporta <a href="https://docs.joinmastodon.org/user/boosts/">"boosts"</a> (como retweets) e <a href="https://docs.joinmastodon.org/user/favourites/">"favourites"</a> (como likes).</li>
-</ul>
+---
 
-<h2>Conclusão</h2>
-<p>O X (Twitter) está em declínio, com mais anúncios e menos moderação. <strong>Mastodon oferece uma alternativa descentralizada, focada na comunidade e na privacidade</strong>. <strong>Experimenta hoje e junta-te à fediverso!</strong></p>
+## Alternativas ao X (Twitter)
 
-<a href="https://joinmastodon.org/" class="button">Experimentar Mastodon</a>
-<a href="https://calckey.social/" class="button">Experimentar Calckey</a>
+| Rede Social  | País    | Vantagens                                                                 | Link                          |
+|--------------|---------|---------------------------------------------------------------------------|-------------------------------|
+| Mastodon     | Alemanha | Open-source, sem anúncios, comunidades temáticas                        | [joinmastodon.org](https://joinmastodon.org/) |
+| Calckey      | Japão   | Leve, focado em privacidade, alternativa ao Twitter e Instagram          | [calckey.social](https://calckey.social/)   |
+| Pleroma      | Descentralizado | Mais leve que Mastodon, compatível com ActivityPub                     | [pleroma.social](https://pleroma.social/)   |
+
+---
+
+## Como Migrar do X para o Mastodon
+1. **Escolhe uma instância:**
+   - Acede a [joinmastodon.org/servers](https://joinmastodon.org/servers) e escolhe uma instância temática (ex: [mastodon.social](https://mastodon.social/) para geral ou [mastodon.pt](https://mastodon.pt/) para Portugal).
+2. **Cria uma conta:**
+   - Regista-te na instância escolhida (ex: [mastodon.pt](https://mastodon.pt/)).
+3. **Sigue os teus contactos:**
+   - Usa a função "Importar/Exportar" para seguir pessoas de outras instâncias.
+   - Podes procurar utilizadores pelo seu endereço (ex: @utilizador@mastodon.social).
+4. **Personaliza o teu perfil:**
+   - Adiciona uma bio, foto de perfil e cabeçalho (como no Twitter).
+5. **Usa apps móveis:**
+   - Android: [Mastodon oficial](https://play.google.com/store/apps/details?id=org.joinmastodon.android) ou [Tusky](https://play.google.com/store/apps/details?id=com.jeremyfeinstein.sliver).
+   - iOS: [Mastodon oficial](https://apps.apple.com/app/mastodon-for-iphone/id1571998974) ou [Ice Cubes](https://apps.apple.com/app/ice-cubes/id1450039468).
+6. **Desativa o X (opcional):**
+   - Depois de migrares, podes [desativar a tua conta do X](https://help.twitter.com/pt/managing-your-account/how-to-deactivate-twitter-account).
+
+---
+
+## Dicas para Mastodon
+- Usa [fediverse.info](https://fediverse.info/) para descobrir novas instâncias e comunidades.
+- Podes seguir utilizadores de qualquer instância Mastodon (ex: @utilizador@outra.instancia).
+- Mastodon suporta ["boosts"](https://docs.joinmastodon.org/user/boosts/) (como retweets) e ["favourites"](https://docs.joinmastodon.org/user/favourites/) (como likes).
+
+---
+
+## Conclusão
+O X (Twitter) está em declínio, com mais anúncios e menos moderação. **Mastodon oferece uma alternativa descentralizada, focada na comunidade e na privacidade**. **[Experimenta hoje e junta-te à fediverso!](https://joinmastodon.org/)**
